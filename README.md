@@ -2,6 +2,15 @@
 
 A simple carousel component for React Native using FlatList
 
+https://github.com/mk-nickyang/react-native-flatlist-carousel/assets/29244509/5df4fb92-96e5-40f2-a6e5-38ca22806ca2
+
+## Features
+- **Pure JavaScript Implementation**
+- **Auto Scroll**
+- **Dot Indicators**
+
+More to come in the future.
+
 ## Installation
 
 ```sh
