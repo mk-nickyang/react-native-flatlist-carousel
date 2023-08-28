@@ -1,6 +1,6 @@
 {
   "name": "react-native-flatlist-carousel",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple carousel component for React Native using FlatList",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
