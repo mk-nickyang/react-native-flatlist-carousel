@@ -1,6 +1,6 @@
 {
   "name": "react-native-flatlist-carousel",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "A simple carousel component for React Native using FlatList",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -31,7 +31,7 @@
     "typecheck": "tsc --noEmit",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
     "prepack": "bob build",
-    "release": "release-it",
+    "release": "dotenv release-it --",
     "example": "yarn --cwd example",
     "bootstrap": "yarn example && yarn install"
   },
@@ -60,6 +60,7 @@
     "@types/react-native": "0.70.0",
     "commitlint": "^17.0.2",
     "del-cli": "^5.0.0",
+    "dotenv-cli": "^7.3.0",
     "eslint": "^8.4.1",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
